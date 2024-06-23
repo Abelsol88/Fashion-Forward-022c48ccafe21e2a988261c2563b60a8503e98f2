@@ -1,5 +1,5 @@
 ##Introduction
-This report covers how I built a simple e-commerce website. The site allows users to browse products, view details, add items to their cart, and proceed to checkout. I used HTML, CSS, and JavaScript for the site and got product data from the Fake Store API.
+This report covers  a simple e-commerce website. The site allows users to browse products, view details, add items to their cart, and proceed to checkout. I used HTML, CSS, and JavaScript for the site and got product data from the Fake Store API.
 Project Overview
   •	Home Page (index.html): Shows a list of products from the API. Users can view product details, add items to their cart, or go to checkout.
   •	Contact Page (contact.html): Includes a form for users to send messages.
